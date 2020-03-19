@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarvedRock.Api", "CarvedRoc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarvedRock.Web", "CarvedRock.Web\CarvedRock.Web.csproj", "{2D1BE822-9681-44CF-B456-C9506A1260F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserServicce.Api", "UserServicce.Api\UserServicce.Api.csproj", "{F696B08F-4D8D-4FAF-B831-A7AB589739C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserService.Api", "UserServicce.Api\UserService.Api.csproj", "{F696B08F-4D8D-4FAF-B831-A7AB589739C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
