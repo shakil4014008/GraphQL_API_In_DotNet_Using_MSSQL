@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>UserService.Api</AssemblyName>
+    <AssemblyName>Userservice</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

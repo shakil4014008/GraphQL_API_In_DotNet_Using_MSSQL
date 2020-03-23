@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarvedRock.Api", "CarvedRoc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarvedRock.Web", "CarvedRock.Web\CarvedRock.Web.csproj", "{2D1BE822-9681-44CF-B456-C9506A1260F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService.Api", "UserService.Api\UserService.Api.csproj", "{B4471627-8927-4F2B-A14A-FB159A2F2548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Userservice", "Userservice\Userservice.csproj", "{F390F7AF-DCB4-45D2-BF7C-0F9A617A303E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{2D1BE822-9681-44CF-B456-C9506A1260F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D1BE822-9681-44CF-B456-C9506A1260F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D1BE822-9681-44CF-B456-C9506A1260F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4471627-8927-4F2B-A14A-FB159A2F2548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4471627-8927-4F2B-A14A-FB159A2F2548}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4471627-8927-4F2B-A14A-FB159A2F2548}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4471627-8927-4F2B-A14A-FB159A2F2548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F390F7AF-DCB4-45D2-BF7C-0F9A617A303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F390F7AF-DCB4-45D2-BF7C-0F9A617A303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F390F7AF-DCB4-45D2-BF7C-0F9A617A303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F390F7AF-DCB4-45D2-BF7C-0F9A617A303E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
