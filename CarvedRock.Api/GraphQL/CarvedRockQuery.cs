@@ -40,7 +40,7 @@ namespace CarvedRock.Api.GraphQL
                 });
 
 
-         
+          //
             Field<ListGraphType<BookType>>("books", resolve: context => Repositories.BookRepository.GetBooks());
 
             Field<BookType>(
